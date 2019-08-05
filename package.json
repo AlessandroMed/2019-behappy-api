@@ -17,7 +17,7 @@
     "tarefas",
     "hapi"
   ],
-  "author": "Daniel Victor",
+  "author": "Alessandro Medeiros",
   "license": "ISC",
   "dependencies": {
     "@hapi/hapi": "^18.3.1",
@@ -26,10 +26,7 @@
     "babel-plugin-syntax-async-functions": "^6.13.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-<<<<<<< HEAD
     "babel-register": "^6.26.0",
-=======
->>>>>>> bd5e55e2410e887fccc995212c5b00b34d8ec2b6
     "hapi-router": "^5.0.0",
     "knex": "^0.15.2",
     "nodemon": "^1.18.4",
