@@ -1,3 +1,4 @@
+
 const table_name = "what";
 
 exports.seed = function(knex, Promise) {
